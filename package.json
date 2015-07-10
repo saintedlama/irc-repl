@@ -2,7 +2,7 @@
   "name": "irc-repl",
   "version": "1.0.0",
   "description": "IRC + REPL => :heart:. It feels like you're in the bot.",
-  "main": "index.js",
+  "bin": "./cli.js",
   "scripts": {
     "test": "mocha test -R spec"
   },

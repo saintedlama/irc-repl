@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var irc = require('slate-irc');
 var net = require('net');
 var fs = require('fs');
