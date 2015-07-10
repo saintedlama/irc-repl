@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# Dependency directories
+node_modules/
+
+# Temp Stuff
+npm-debug.log
+*~
+*.swp
